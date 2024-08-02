@@ -3,3 +3,4 @@ fileChangeLogs:
   - '.1024'
   - .pnpm-store
   - node_modules
+  - README.md
